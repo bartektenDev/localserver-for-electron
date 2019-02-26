@@ -1,0 +1,23 @@
+{
+  "name": "localserver-electron",
+  "version": "1.0.0",
+  "description": "Run a local server throuh electron in background!",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron .",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bartektenDev/localserver-Electron.git"
+  },
+  "keywords": [
+    "electronlocalserver"
+  ],
+  "author": "Bart Tarasewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bartektenDev/localserver-Electron/issues"
+  },
+  "homepage": "https://github.com/bartektenDev/localserver-Electron#readme"
+}
